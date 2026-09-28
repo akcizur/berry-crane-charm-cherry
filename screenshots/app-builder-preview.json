@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Den",
+      "hasCanvas": false,
+      "bodyTextLen": 311,
+      "bodyTextHash": "4daffdbe3426add397f70174c4035b9c4cf6c085820d4c57a0b0b2ea9a2221e5",
+      "bodyTextPrefix": "Habitat Studio Install den://start System MONDAY, SEPTEMBER 28 1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Den",
+      "hasCanvas": false,
+      "bodyTextLen": 239,
+      "bodyTextHash": "7fe7b0836d01844b6c9db088bf0a93dc8000a53c02db3de6e68a29c9d875ef36",
+      "bodyTextPrefix": "Habitat Studio Install MON, SEP 28 19:32 Search or enter address",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
